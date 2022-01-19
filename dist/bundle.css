@@ -1,0 +1,13 @@
+
+h2.l-text-component[data-v-05bc8623], p.l-text-component[data-v-05bc8623] {
+  margin-bottom: 0;
+}
+button.l-text-component[data-v-05bc8623] {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.l-text-component[data-v-05bc8623] {
+  box-sizing: border-box;
+  white-space: pre-wrap;
+  position: relative !important;
+}
